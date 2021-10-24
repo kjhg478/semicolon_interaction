@@ -6,6 +6,9 @@
 
   - 스크롤에 따라 반응하는 동적으로 변하는 페이지
   - SemiColon SNS 프로젝트를 소개하는 페이지 !
+  - 인터랙션을 공부하며 이해한 내용을 정리한 블로그 -> Interaction Tap
+  - [블로그][https://blog.naver.com/kjhg4782]
+  - ![image](https://user-images.githubusercontent.com/31474272/138591017-b82244e8-c7f6-461b-aabc-1c583deea1b2.png)
 
 - Contributor
 
